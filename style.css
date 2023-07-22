@@ -247,8 +247,12 @@ ul a{
     font-size: 0.7rem;
     text-align: center;
  }
+ .foot_panel4 a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+ }
  .pages{
-    
     padding-top: 25px;
     padding-bottom: 5px;
  }
