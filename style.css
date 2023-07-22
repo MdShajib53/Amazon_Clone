@@ -149,7 +149,7 @@
 }
 .hero_meassage{
     background-color: white;
-    columns: black;
+    color: black;
     height: 40px;
     display: flex;
     align-items: center;
