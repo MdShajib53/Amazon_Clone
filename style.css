@@ -213,6 +213,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+.foot_panel2 a{
+    text-decoration: none;
+}
 ul{
     margin-top: 25px;
 }
